@@ -1,0 +1,14 @@
+{
+    "path": "$NETWORKCONTEXTDESKTOP",
+    "load_package_once": true,
+    "version": "20.5",
+    "enable": true,
+    
+    "env":
+    [
+        {
+            "NETWORKCONTEXTDESKTOP": "D:/Tools/Houdini/network_context_desktop"
+        }
+    ]
+}
+
